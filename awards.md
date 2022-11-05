@@ -1,6 +1,6 @@
 ---
 layout: archive-awards
 permalink: /awards/
-title: awards
+title: Awards
 type: awards
 ---
