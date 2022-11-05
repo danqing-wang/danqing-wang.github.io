@@ -18,6 +18,10 @@
   title: Conferences
   url: /conferences/
   
- - type: press
+- type: press
   title: Press
   url: /press/
+
+- type: outreach
+  title: Outreach
+  url: /outreach/
