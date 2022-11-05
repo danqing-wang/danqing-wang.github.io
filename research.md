@@ -1,13 +1,7 @@
 
 ---
-layout: page
-title: Rearch
+layout: archive-research
+permalink: /research/
+title: research
+type: research
 ---
-
-# My research
-
-NU
-
-PKU
-
-NJU
