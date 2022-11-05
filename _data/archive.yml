@@ -7,3 +7,15 @@
 - type: tags
   title: Tags
   url: /tags/
+  
+- type: research
+  title: Research
+  url: /research/
+
+- type: publication
+  title: Publication
+  url: /publication/
+  
+- type: award
+  title: Award
+  url: /award/
