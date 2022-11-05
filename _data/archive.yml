@@ -13,3 +13,11 @@
 - type: awards
   title: Awards
   url: /awards/
+
+- type: conferences
+  title: Conferences
+  url: /conferences/
+  
+ - type: press
+  title: Press
+  url: /press/
