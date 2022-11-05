@@ -5,7 +5,6 @@ title: Press
 ---
 
 1.    ["Structuring Nanomaterials for Optics"](https://miller.berkeley.edu/images/newsletters/Winter2021_digital.pdf), Miller Fellow Focus, Miller Institute Newsletter (Winter 2021)  
-2.    "Structuring Nanomaterials for Optics", Miller Fellow Focus, Miller Institute Newsletter (Winter 2021)  
 2.    "Forbes 30 Under 30 2021 List", Forbes (December 2020)  
 3.    "Upconverting Nanolasers from Subwavelength Plasmons: Stability and Ultralow Powers", energy.gov (March 2020)  
 4.    "Tiny laser packs a punch", Berkeley Lab’s Molecular Foundry News (Nov. 2019)  
