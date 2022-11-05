@@ -1,5 +1,5 @@
 ---
-layout: archive-press
+layout: archive-tags
 #permalink: /press/
 title: Press
 ---
