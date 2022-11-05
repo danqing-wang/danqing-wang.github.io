@@ -1,4 +1,3 @@
-
 ---
 layout: archive-research
 permalink: /research/
