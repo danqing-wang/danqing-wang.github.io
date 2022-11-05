@@ -1,6 +1,6 @@
 ---
 layout: archive-research
 permalink: /research/
-title: research
+title: Research
 type: research
 ---
