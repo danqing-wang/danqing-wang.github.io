@@ -33,31 +33,19 @@ exclude:
 
     
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
   name: Danqing Wang
   links:
     - https://www.linkedin.com/in/danqing-anna-wang
     - https://twitter.com/annadanqing
-google_site_verification: xxxxx
 lang: en
 
 sass:
   sass_dir: _sass
   style: :compressed
 
-# Options
 
-# Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
-
-# Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
-
-# Specify the author for blog posts
 author:
   name: Danqing Wang
   url: https://github.com/danqing-wang
