@@ -1,5 +1,5 @@
 ---
-layout: archive-publications
+layout: archive-tags
 permalink: /publications/
 title: Publications
 type: publications
