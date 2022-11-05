@@ -20,5 +20,7 @@ University of California, Berkeley
 Morning mentor, Tutoring program at Nichols Middle School Winter 2018  
 Northwestern University
 
+Professional Development Co-chair, McCormick Graduate Leadership Council 2014-16  
+Northwestern University
 
 
