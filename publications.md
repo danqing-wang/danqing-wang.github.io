@@ -15,5 +15,23 @@ First and co-first author
 6.   Wang, D.; Yang, A.; Wang. W.; Hua, Y.; Schaller, R.D.; Schatz, G.C.; Odom, T.W. “Band-edge Engineering for Controlled Multi-modal Nanolasing in Plasmonic Superlattices,” Nature Nanotechnology 12, 889 (2017) [Highlighted by News and Views, Nature Nanotechnology] DOI: 10.1038/nnano.2017.126  
 7.   Wang, D.; Wang. W.; Knudson, M.P.; Schatz, G.C.; Odom, T.W. “Structural Engineering in   Plasmon Nanolasers,” Chemical Reviews 118, 2865–2881 (2017) DOI: 10.1021/acs.chemrev.7b00424  
 8.   Tran, T.T.*; Wang, D.*; Xu, Z-Q.*; Yang, A.; Toth, M.; Odom, T.W.; Aharonovich, I. “Deterministic Coupling of Quantum Emitters in 2D Materials to Plasmonic Nanocavity Arrays,” Nano Letters 17, 2634-2639 (2017) DOI: 10.1021/acs.nanolett.7b00444 (*equal contribution)  
-9.   Wang, D.; Yang, A.; Hryn, A.J.; Schatz, G.C.; Odom, T.W. “Superlattice Plasmons in Hierarchical Au Nanoparticle Arrays,” ACS Photonics 2, 1789 (2015) DOI: 10.1021/acsphotonics.5b00546  
+9.   Wang, D.; Yang, A.; Hryn, A.J.; Schatz, G.C.; Odom, T.W. “Superlattice Plasmons in Hierarchical Au Nanoparticle Arrays,” ACS Photonics 2, 1789 (2015) DOI: 10.1021/acsphotonics.5b00546    
 
+Co-author
+
+10. Dong, K.; Zhang, T.; Li, J.; Wang, Q.; Yang, F.; Rho, Y.; Wang, D.; Grigoropoulos, C.P.; Wu, J.; Yao J. “Flat bands in magic-angle bilayer photonic crystals at small twists,” Phys. Rev. Lett. 126, 223601 (2021)  
+11. Guan, J.; Sagar, L.K.; Li, R.; Wang, D.; Bappi, G; Wang, W.; Watkins, N.; Bourgeois, M.R.; Levina, L.; Fan, F.; Hoogland, S.; Voznyy, O.; Martins, J.; Schaller, R.D.; Schatz, G.C.; Sargent, E.H.; Odom, T.W. “Quantum dot-plasmon lasing with controlled polarization patterns,” ACS Nano 14, 3426–3433 (2020) DOI: 10.1021/acsnano.9b09466  
+12. Guan, J.; Sagar, L.K.; Li, R.; Wang, D.; Bappi, G; Watkins, N.; Bourgeois, M.R.; Levina, L.; Fan, F.; Hoogland, S.; Voznyy, O.; Martins, J.; Schaller, R.D.; Schatz, G.C.; Sargent, E.H.; Odom, T.W. “Engineering Directionality in Quantum Dot Shell Lasing Using Plasmonic Lattices,” Nano Letters 20, 1468-1474 (2020) DOI: 10.1021/acs.nanolett.9b05342  
+13. Lin, Y.; Wang, D.; Hu, J.; Liu, J.; Wang, W.; Schaller, R.D.; Odom, T.W. “Engineering Symmetry-breaking Nanocrescent Arrays for Nanolasing,” Adv. Funct. Mater. 1904157 (2019) DOI: 10.1002/adfm.201904157  
+14. Hu, J.; Wang, D.; Bhowmik, D.; Liu, T.; Deng, S.; Knudson, M.P.; Ao, X.; Odom, T.W. “Lattice-Resonance Metalenses for Fully Reconfigurable Imaging,” ACS Nano 13, 4613-4620 (2019) DOI: 10.1021/acsnano.9b00651  
+15. Ao, X.; Wang, D.; Odom, T.W. “Enhanced Fields in Mirror-backed Low-Index Dielectric Structures,” ACS Photonics 6, 2612-2617 (2019) DOI: 10.1021/acsphotonics.9b00931  
+16. Li, R.; Wang, D.; Guan, J.; Wang, W.; Ao, X.; Schatz, G.C.; Schaller, R.C.; Odom, T.W. “Plasmon nanolasing with aluminum nanoparticle arrays,” J. Opt. Soc. Am. B 36, 104-111 (2019) DOI: 10.1364/josab.36.00e104  
+17. Liu, J.; Wang, W.; Wang, D.; Hu, J.; Ding, W.; Schaller, R.D.; Schatz, G.C.; Odom, T.W. “Spatially Defined Molecular Emitters Coupled to Plasmonic Nanoparticles,” Proc. Natl. Acad. Sci. 116, 5925-5930 (2019) DOI.org/10.1073/pnas.1818902116  
+18. Hooper, D. C.; Kuppe, C.; Wang, D.; Wang, W.; Guan, J.; Odom, T.W.; Valev, V.K. “Second harmonic spectroscopy of surface lattice resonances,” Nano Letters 19, 165-172 (2019) DOI: 10.1021/acs.nanolett.8b03574  
+19. Knudson, M.P.; Li, R.; Wang, D.; Wang, W.; Schaller, R.D.; Odom, T.W. “Polarization-Dependent Lasing Behavior from Low-Symmetry Nanocavity Arrays,” ACS Nano 13, 7435-7441 (2019) DOI: 10.1021/acsnano.9b01142  
+20. Cherqui, C.; Bourgeois, M.R.; Wang, D.; Schatz, G.C. “Plasmonic Surface Lattice Resonances: Theory and Computation,” Accounts of Chemical Research 52, 2548-2558 (2019) DOI: 10.1021/acs.accounts.9b00312  
+21. Li, R.; Bourgeois, M.R.; Cherqui, C.; Guan, J.; Wang, D.; Hu, J.; Schaller, R.D.; Schatz, G.C.; Odom, T.W. “Hierarchical Hybridization in Plasmonic Honeycomb Lattices,” Nano Letters 19, 6435-6441 (2019) DOI: 10.1021/acs.nanolett.9b02661  
+22. Wang, D.; Wang, W.; Odom, T.W. et al. “Roadmap on Plasmonics: Nanoarray Lasing Spasers,” Journal of Optics 20, 043001 (2018) DOI: 10.1088/2040-8986/aaa114  
+23. Trivedi, D.; Wang, D.; Odom, T.W.; Schatz, G.C. “Model for Describing Plasmonic Nanolasers Using Maxwell-Liouville Equations with Finite-difference Time-domain Calculations,” Phys. Rev. A. 96, 053825 (2017) DOI: 10.1103/PhysRevA.96.053825  
+24. Yang, A.; Wang, D.; Wang, W.; Odom, T. W. “Coherent Light Sources at the Nanoscale,” Annu. Rev. Phys. Chem. 68, 83-99 (2017) DOI: 10.1146/annurev-physchem-052516-050730  
+25. Wang, S.; Wang, D.; Hu, X.; Li, T.; Zhu, S. “Compact Surface Plasmon Amplifier in Nonlinear Hybrid Waveguide,” Chinese Physics B 25, 7 (2016)  
