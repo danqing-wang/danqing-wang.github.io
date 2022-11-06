@@ -15,7 +15,7 @@ University of California, Berkeley
 Invited panelist, WISE National Conference, Canada Jan. 2022  
 University of Toronto
 
-![Meet with a Miller Fellow](http://danqing-wang.github.io//assets/Outreach.jpeg){:class="img-responsive"}
+![Meet with a Miller Fellow](http://danqing-wang.github.io/assets/images/Outreach.jpeg){:class="img-responsive"}
 “Meet with a Miller Fellow” outreach program at El Cerrito High School 2020-21  
 University of California, Berkeley 
 
