@@ -5,5 +5,5 @@
 #- title: Publications
 #  url: /publications/
 - title: CV
-  url: /awards/
+  url: {{ site.url }}/download/CV_DanqingWang_web.pdf
 
