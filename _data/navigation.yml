@@ -1,5 +1,5 @@
-- title: CV
-  url: {{ site.url }}/download/CV_DanqingWang_web.pdf
+#- title: CV
+#  url: {{ site.url }}/download/CV_DanqingWang_web.pdf
 #- title: Research
 #  url: /research/
 #- title: Publications
