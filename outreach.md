@@ -1,5 +1,5 @@
 ---
-layout: archive-outreach
+layout: archive-tags
 permalink: /outreach/
 title: Outreach
 image:  ./assets/images/Outreach.jpeg
