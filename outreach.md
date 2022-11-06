@@ -2,6 +2,7 @@
 layout: archive-tags
 permalink: /outreach/
 title: Outreach
+image:  ./assets/images/Outreach.jpeg
 type: outreach
 ---
 
@@ -14,7 +15,7 @@ University of California, Berkeley
 Invited panelist, WISE National Conference, Canada Jan. 2022  
 University of Toronto
 
-image:  ./assets/images/Outreach.jpeg
+
 “Meet with a Miller Fellow” outreach program at El Cerrito High School 2020-21  
 University of California, Berkeley 
 
