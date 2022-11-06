@@ -15,7 +15,6 @@ University of California, Berkeley
 Invited panelist, WISE National Conference, Canada Jan. 2022  
 University of Toronto
 
-![Meet with a Miller Fellow](/assets/images/Outreach.jpg){:class="img-responsive"}
 “Meet with a Miller Fellow” outreach program at El Cerrito High School 2020-21  
 University of California, Berkeley 
 
@@ -25,4 +24,5 @@ Northwestern University
 Professional Development Co-chair, McCormick Graduate Leadership Council 2014-16  
 Northwestern University
 
+![Meet with a Miller Fellow](/assets/images/Outreach.jpg){:class="img-responsive"}
 
