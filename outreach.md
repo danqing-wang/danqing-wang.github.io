@@ -15,7 +15,7 @@ University of California, Berkeley
 Invited panelist, WISE National Conference, Canada Jan. 2022  
 University of Toronto
 
-![Meet with a Miller Fellow](<img src="{{site.baseurl}}/assets/images/Outreach.jpeg" alt="">){:class="img-responsive"}
+![Meet with a Miller Fellow](<img src="{{site.baseurl}}/assets/images/Outreach.jpg" alt="">){:class="img-responsive"}
 “Meet with a Miller Fellow” outreach program at El Cerrito High School 2020-21  
 University of California, Berkeley 
 
