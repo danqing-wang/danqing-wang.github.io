@@ -22,7 +22,7 @@ title: Press
 16.   ["Chameleon-inspired Nanolaser Changes Colors"](https://www.odomgroup.northwestern.edu/research-featured-on-nsf-homepage/), National Science Foundation’s    webhomepage (June 2018)  
 17.   ["Chameleons Inspire Mechanochromic Nanolaser"](https://physicsworld.com/a/chameleons-inspire-mechanochromic-nanolaser/), Physics World (June 2018)  
 18.   ["Chameleon-inspired Nanolaser Changes Colors"](https://www.sciencedaily.com/releases/2018/06/180620150048.htm), ScienceDaily (June 2018)  
-19.   ["Chameleon-inspired Nanolaser Changes Colors"]([https://www.sciencedaily.com/releases/2018/06/180620150048.htm](https://news.northwestern.edu/stories/2018/june/chameleon-inspired-nanolaser-changes-colors/)), Northwestern Now (June 2018)  
+19.   ["Chameleon-inspired Nanolaser Changes Colors"]([https://www.sciencedaily.com/releases/2018/06/180620150048.htm](https://news.northwestern.edu/stories/2018/june/chameleon-inspired-nanolaser-changes-colors/), Northwestern Now (June 2018)  
 20.   ["Northwestern’s New Chameleon-Inspired Laser Changes Colors"](https://news.wttw.com/2018/06/22/northwestern-s-new-chameleon-inspired-laser-changes-colors), WTTW (June 2018)  
 21.   ["Nanolasing: Multimode Superlattice Arrays"](https://www.nature.com/articles/nnano.2017.195), Nature Nanotechnology News and Views (Sep. 2017)  
 22.   ["New Laser Design Offers More Inexpensive Multi-color Output"](https://news.northwestern.edu/stories/2017/july/new-laser-design-inexpensive-multi-color-output/), Northwestern Now (July 2017)   
