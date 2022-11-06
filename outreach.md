@@ -2,7 +2,7 @@
 layout: archive-tags
 permalink: /outreach/
 title: Outreach
-image:  ./assets/images/Outreach.jpeg
+image:  ./assets/images/Outreach.jpg
 type: outreach
 ---
 
