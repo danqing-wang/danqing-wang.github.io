@@ -24,4 +24,4 @@ Graduate research co-advised by Teri W. Odom and George C. Schatz
 -   Established a robust computational approach in finite-difference time-domain methods to investigate time- and spatial- dependent lasing buildup in small photonic cavities  
 These works resulted in 8 first-author publications in Nature Nanotechnology, Nature Materials, Nano Letters, ACS Photonics etc.  
 
-![Research overview](/assets/images/Sum.jpg){:class="img-responsive"}
+![Research overview](/assets/images/Sum.png){:class="img-responsive"}
