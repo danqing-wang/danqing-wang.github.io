@@ -2,6 +2,7 @@
 layout: archive-tags
 permalink: /research/
 title: Research
+image:  ./assets/images/Overview.jpg
 type: research
 ---
 
@@ -22,3 +23,5 @@ Graduate research co-advised by Teri W. Odom and George C. Schatz
 -   Collaboratively achieved continuous-wave nanoscale lasing at visible frequencies under near-infrared pumping with record-low power thresholds  
 -   Established a robust computational approach in finite-difference time-domain methods to investigate time- and spatial- dependent lasing buildup in small photonic cavities  
 These works resulted in 8 first-author publications in Nature Nanotechnology, Nature Materials, Nano Letters, ACS Photonics etc.  
+
+![Research overview](/assets/images/Overview.jpg){:class="img-responsive"}
