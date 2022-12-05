@@ -6,7 +6,7 @@ image:  ./assets/images/Outreach.jpg
 type: outreach
 ---
 
-Co-chair, Gordon Research Seminar 2023  
+Founding co-chair, Gordon Research Seminar 2023 
 Subsection: Lasers in Micro, Nano and Bio Systems, West Dover, VT
 
 Miller Institute Ambassador 2022   
