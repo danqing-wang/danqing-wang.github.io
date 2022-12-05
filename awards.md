@@ -22,8 +22,6 @@ type: awards
 
 2017    Outstanding Research Award, International Institute for Nanotechnology (Northwestern University)
 
-2013    Excellence Award in Chinese Undergraduate Innovation Training Program (national level) 
-
-2013    Shengda Fellowship, Nanjing University
+2013    Excellence Award in Chinese Undergraduate Innovation Training Program (national level)
 
 
