@@ -6,13 +6,13 @@ image:  ./assets/images/Outreach.jpg
 type: outreach
 ---
 
-Co-chair, Gordon Research Seminar 2023 
+Co-chair, Gordon Research Seminar, June 2023   
 Subsection: Lasers in Micro, Nano and Bio Systems, West Dover, VT
 
 Miller Institute Ambassador 2022   
 University of California, Berkeley
 
-Invited panelist, WISE National Conference, Canada Jan. 2022  
+Invited panelist, WISE National Conference, Canada Jan. 2022   
 University of Toronto
 
 “Meet with a Miller Fellow” outreach program at El Cerrito High School 2020-21  
