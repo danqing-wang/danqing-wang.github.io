@@ -4,6 +4,9 @@ permalink: /publications/
 title: Publications
 type: publications
 ---
+Patent
+
+1. Hong, J.; Wu, J.; Wang, D. "Method and Apparatus of Hybrid Integrated Photonics Devices" (US Patent Application no. 18,111,532) - filed on Feb. 18 2023
 
 First and co-first author  
 
@@ -35,7 +38,3 @@ Co-author
 23. Trivedi, D.; Wang, D.; Odom, T.W.; Schatz, G.C. “Model for Describing Plasmonic Nanolasers Using Maxwell-Liouville Equations with Finite-difference Time-domain Calculations,” Phys. Rev. A. 96, 053825 (2017) [DOI: 10.1103/PhysRevA.96.053825](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.053825)  
 24. Yang, A.; Wang, D.; Wang, W.; Odom, T. W. “Coherent Light Sources at the Nanoscale,” Annu. Rev. Phys. Chem. 68, 83-99 (2017) [DOI: 10.1146/annurev-physchem-052516-050730](https://www.annualreviews.org/doi/abs/10.1146/annurev-physchem-052516-050730)  
 26. Wang, S.; Wang, D.; Hu, X.; Li, T.; Zhu, S. “Compact Surface Plasmon Amplifier in Nonlinear Hybrid Waveguide,” Chinese Physics B 25, 7 (2016) [link](https://iopscience.iop.org/article/10.1088/1674-1056/25/7/077301)
-
-Patent
-
-1. Hong, J.; Wu, J.; Wang, D. "Method and Apparatus of Hybrid Integrated Photonics Devices" (US Patent Application no. 18,111,532) - filed on Feb. 18 2023
