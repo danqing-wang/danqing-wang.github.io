@@ -7,7 +7,7 @@ type: outreach
 ---
 
 Co-chair, Gordon Research Seminar, June 2023   
-Subsection: ["Lasers in Micro, Nano and Bio Systems"](https://www.forbes.com/30-under-30/2021/science/?profile=danqing-wang), West Dover, VT
+Subsection: ["Lasers in Micro, Nano and Bio Systems"](https://www.grc.org/lasers-in-micro-nano-and-bio-systems-grs-conference/2023/), West Dover, VT
 
 Miller Institute Ambassador 2022   
 University of California, Berkeley
