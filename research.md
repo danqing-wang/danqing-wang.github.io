@@ -11,7 +11,6 @@ Postdoctoral research hosted by Junqiao Wu
     Highlight activities include:  
 -   Achieved long-range optical interactions between epsilon-near-zero thin film materials and their analogy to superconducting proximity effect in electronic systems  
 -   Demonstrated that near-zero-index materials can serve as a cladding layer for low-loss and geometry-invariant optical waveguides for miniaturized photonics  
--   Realized cavity-free lasing robust to lateral cavity geometry deformation based on zero-index materials with numerical methods  
 These works are funded by the Miller research fellowship.  
 
 Northwestern University, Evanston, IL                                                                                                   
