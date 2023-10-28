@@ -9,7 +9,7 @@ type: awards
 
 2022    Rising Stars in EECS, USA
 
-2020    Forbes 30 Under 30 in Science
+2020    Forbes 30 Under 30 in Science, USA
 
 2019    Miller Research Fellowship, University of California, Berkeley   
 
