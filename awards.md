@@ -5,8 +5,9 @@ title: Awards
 type: awards
 ---
 
+2023    Rising Stars of Light, before faculty track
 
-2022    Rising Stars in EECS, Class of 2022
+2022    Rising Stars in EECS, USA
 
 2020    Forbes 30 Under 30 in Science, Class of 2021
 
