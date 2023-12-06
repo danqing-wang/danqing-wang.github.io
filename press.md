@@ -4,7 +4,7 @@ layout: archive-tags
 title: Press
 ---
 
-1.    ["A Rising Star of Light at the Max Planck Institute for the Science of Light"]([https://miller.berkeley.edu/images/newsletters/Winter2021_digital.pdf](https://mpl.mpg.de/news-events/news-from-the-institute/news-detail/news-detail/news-detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1207&cHash=80abf52132f31412f58018709241c1c9)), News from the Institute, Max Planck Institute for the Science of Light (Dec. 2023)
+1.    ["A Rising Star of Light at the Max Planck Institute for the Science of Light"]((https://mpl.mpg.de/news-events/news-from-the-institute/news-detail/news-detail/news-detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1207&cHash=80abf52132f31412f58018709241c1c9)), News from the Institute, Max Planck Institute for the Science of Light (Dec. 2023)
 2.    ["Structuring Nanomaterials for Optics"](https://miller.berkeley.edu/images/newsletters/Winter2021_digital.pdf), Miller Fellow Focus, Miller Institute Newsletter (Winter 2021)  
 3.    ["Forbes 30 Under 30 2021 List"](https://www.forbes.com/30-under-30/2021/science/?profile=danqing-wang), Forbes (December 2020)  
 4.    ["Upconverting Nanolasers from Subwavelength Plasmons: Stability and Ultralow Powers"](https://www.energy.gov/science/bes/articles/upconverting-nanolasers-subwavelength-plasmons-stability-and-ultralow-powers), energy.gov (March 2020)  
