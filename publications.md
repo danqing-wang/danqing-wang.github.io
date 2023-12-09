@@ -23,6 +23,7 @@ First and co-first author
 11.   Wang, D.; Yang, A.; Hryn, A.J.; Schatz, G.C.; Odom, T.W. “Superlattice Plasmons in Hierarchical Au Nanoparticle Arrays,” ACS Photonics 2, 1789 (2015) [DOI: 10.1021/acsphotonics.5b00546](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.5b00546)    
 
 Co-author
+
 12. Lin, Y.; Fan, L.; Jiang, M.; Wang, D.; He J.; Fu, Y.; Wang, J.; Zhang, X. “Ultrafast dynamics of strong near-field coupled localized and delocalized surface plasmons,” submitted 
 13. Dong, K.; Zhang, T.; Li, J.; Wang, Q.; Yang, F.; Rho, Y.; Wang, D.; Grigoropoulos, C.P.; Wu, J.; Yao J. “Flat bands in magic-angle bilayer photonic crystals at small twists,” Phys. Rev. Lett. 126, 223601 (2021) [DOI:10.1103/PhysRevLett.126.223601](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.223601)  
 14. Guan, J.; Sagar, L.K.; Li, R.; Wang, D.; Bappi, G; Wang, W.; Watkins, N.; Bourgeois, M.R.; Levina, L.; Fan, F.; Hoogland, S.; Voznyy, O.; Martins, J.; Schaller, R.D.; Schatz, G.C.; Sargent, E.H.; Odom, T.W. “Quantum dot-plasmon lasing with controlled polarization patterns,” ACS Nano 14, 3426–3433 (2020) [DOI: 10.1021/acsnano.9b09466](https://pubs.acs.org/doi/10.1021/acsnano.9b09466)  
