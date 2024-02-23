@@ -10,7 +10,7 @@ Patent
 
 First and co-first author  
 
-1.   Wang, D.#; Yang, A. “Emerging Optics from Structured Nanoscale Optical Cavities,” (#corresponding author) invited review, submitted
+1.   Wang, D.#; Yang, A. “Emerging Optics from Structured Nanoscale Optical Cavities,” (#corresponding author) invited review, in press
 2.   Wang, D.; Hu, J.; Schatz, G.C.; Odom, T.W. “Superlattice Surface Lattice Resonances in Plasmonic Nanoparticle Arrays with Patterned Dielectrics,” J. Phys. Chem. Lett. 14, 38, 8525–8530 (2023) [DOI: 10.1021/acs.jpclett.3c02158](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02158)
 3.   Wang, D.#; Dong, K.; Li, J.; Grigoropoulos, C.; Yao, J.; Hong, J.; Wu, J.# “Low-loss, geometry-invariant optical waveguides with near-zero-index materials,” Nanophotonics 11, 21, 4747–4753 (2022) (#corresponding author) [DOI: 10.1515/nanoph-2022-0445](https://www.degruyter.com/document/doi/10.1515/nanoph-2022-0445/html)
 4.   Wang, D.; Bourgeois, M.R.; Guan, J.; Fumani, A.K.; Schatz, G.C.; Odom, T.W. “Lasing from Finite Plasmonic Nanoparticle Lattices,” ACS Photonics 7, 630-636 (2020) [DOI: 10.1021/acsphotonics.0c00231](https://pubs.acs.org/doi/10.1021/acsphotonics.0c00231)  
