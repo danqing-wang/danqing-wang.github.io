@@ -13,7 +13,7 @@ type: awards
 
 2019    Miller Research Fellowship, University of California, Berkeley   
 
-2018    Material Research Society Graduate Student Award (GSA) Silver Award
+2018    Material Research Society Graduate Student Award
 
 2018    Excellent Poster Award, Gordon Research Conference on Lasers in Micro, Nano and Bio Systems
 
