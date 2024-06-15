@@ -25,7 +25,7 @@ First and co-first author
 
 Co-author
 
-12. Lin, Y.; Fan, L.; Jiang, M.; Wang, D.; He J.; Fu, Y.; Wang, J.; Zhang, X. “Ultrafast dynamics of strong near-field coupled localized and delocalized surface plasmons,” submitted 
+12. Lin, Y.; Fan, L.; Jiang, M.; Wang, D.; He J.; Fu, Y.; Wang, J.; Zhang, X. “Ultrafast Dynamics of Strong Near-Field Coupled Localized and Delocalized Surface Plasmons,” Advanced Optical Materials, 2400109 (2024)
 13. Dong, K.; Zhang, T.; Li, J.; Wang, Q.; Yang, F.; Rho, Y.; Wang, D.; Grigoropoulos, C.P.; Wu, J.; Yao J. “Flat bands in magic-angle bilayer photonic crystals at small twists,” Phys. Rev. Lett. 126, 223601 (2021) [DOI:10.1103/PhysRevLett.126.223601](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.223601)  
 14. Guan, J.; Sagar, L.K.; Li, R.; Wang, D.; Bappi, G; Wang, W.; Watkins, N.; Bourgeois, M.R.; Levina, L.; Fan, F.; Hoogland, S.; Voznyy, O.; Martins, J.; Schaller, R.D.; Schatz, G.C.; Sargent, E.H.; Odom, T.W. “Quantum dot-plasmon lasing with controlled polarization patterns,” ACS Nano 14, 3426–3433 (2020) [DOI: 10.1021/acsnano.9b09466](https://pubs.acs.org/doi/10.1021/acsnano.9b09466)  
 15. Guan, J.; Sagar, L.K.; Li, R.; Wang, D.; Bappi, G; Watkins, N.; Bourgeois, M.R.; Levina, L.; Fan, F.; Hoogland, S.; Voznyy, O.; Martins, J.; Schaller, R.D.; Schatz, G.C.; Sargent, E.H.; Odom, T.W. “Engineering Directionality in Quantum Dot Shell Lasing Using Plasmonic Lattices,” Nano Letters 20, 1468-1474 (2020) [DOI: 10.1021/acs.nanolett.9b05342](https://pubs.acs.org/doi/10.1021/acs.nanolett.9b05342)  
