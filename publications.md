@@ -6,7 +6,7 @@ type: publications
 ---
 Patent
 
-1. Hong, J.; Wu, J.; Wang, D. "Method and Apparatus of Hybrid Integrated Photonics Devices" (US Patent Application no. 18,111,532) - filed on Feb. 18 2023
+1. Hong, J.; Wu, J.; Wang, D. "Method and Apparatus of Hybrid Integrated Photonics Devices" (US Patent no. 20240184039)
 
 First and co-first author  
 
