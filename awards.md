@@ -9,7 +9,7 @@ type: awards
 
 2022    Rising Stars in EECS, USA
 
-2020    Forbes 30 Under 30 in Science, USA
+2021    Forbes 30 Under 30 in Science, USA
 
 2019    Miller Research Fellowship, University of California, Berkeley   
 
@@ -17,7 +17,7 @@ type: awards
 
 2018    Excellent Poster Award, Gordon Research Conference on Lasers in Micro, Nano and Bio Systems
 
-2018    Honorable Mention, International Precious Metals Institute (IPMI) Student Award 
+2018    Honorable Mention, International Precious Metals Institute Student Award 
 
 2018    Chinese Government Award for Outstanding Self-Financed Students Abroad 
 
