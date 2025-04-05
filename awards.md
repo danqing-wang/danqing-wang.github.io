@@ -5,7 +5,7 @@ title: Awards
 type: awards
 ---
 
-2023    Rising Stars of Light
+2023    Rising Stars of Light (3 awardees globally，before faculty track)
 
 2022    Rising Stars in EECS, USA
 
