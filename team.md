@@ -2,12 +2,12 @@
 layout: archive-tags
 permalink: /team/
 title: Team
-image:  ./assets/images/team1.jpg
+image:  ./assets/images/Photo0.jpg
 type: team
 ---
 
+PI
+Danqing Wang
+![Meet with a Miller Fellow](/assets/images/Photo0.jpg){:class="img-responsive"}
 
 
-Graduate students
-
-![Meet with a Miller Fellow](/assets/images/Outreach.jpg){:class="img-responsive"}
