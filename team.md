@@ -21,6 +21,7 @@ Graduate students
 Yiran Chen
 <br /> <br />
 ![Photo](/assets/images/Photo2_new.jpg){:class="img-responsive"}
+<br /> <br />
 Xirui Liao
 <br /> <br />
 ![Photo](/assets/images/Photo3_new.jpg){:class="img-responsive"}
