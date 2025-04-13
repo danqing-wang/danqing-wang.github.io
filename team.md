@@ -13,18 +13,22 @@ PI (Danqing Wang)
 Research Assistant
 <br /> <br />
 Hong Su
+<br /> <br />
 ![Photo](/assets/images/Photo1_new.jpg){:class="img-responsive"}
 
 Graduate students
 <br /> <br />
 Yiran Chen
+<br /> <br />
 ![Photo](/assets/images/Photo2.jpg){:class="img-responsive"}
 Xirui Liao
+<br /> <br />
 ![Photo](/assets/images/Photo3.jpg){:class="img-responsive"}
 
 Undergraduate
 <br /> <br />
 Ruilin Liu
+<br /> <br />
 ![Photo](/assets/images/Photo4.jpg){:class="img-responsive"}
 
 
