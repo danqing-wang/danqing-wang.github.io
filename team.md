@@ -8,6 +8,6 @@ type: team
 
 PI
 Danqing Wang
-![Photo0](/assets/image/image/images/Photo0.png){:class="img-responsive"}
+![Research overview](/assets/images/Sum.png){:class="img-responsive"}
 
 
