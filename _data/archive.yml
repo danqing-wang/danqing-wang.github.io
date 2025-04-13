@@ -6,6 +6,10 @@
   title: Research
   url: /research/
 
+- type: team
+  title: Team
+  url: /team/
+  
 - type: publications
   title: Publications
   url: /publications/
