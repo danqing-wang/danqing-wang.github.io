@@ -1,12 +1,12 @@
 - title: Email
-  url: mailto://danqing.wang@berkeley.edu
+  url: mailto://danqingwang@fudan.edu.cn
   icon: fas fa-envelope
+  - title: google scholar
+  url: https://scholar.google.com/citations?user=XbzEcqMAAAAJ&hl=en
+  icon: fab fa-google
+- title: linkedin
+  url: https://www.linkedin.com/in/danqing-anna-wang
+  icon: fab fa-linkedin
 - title: Twitter
   url: https://twitter.com/annadanqing
   icon: fab fa-twitter
-- title: GitHub
-  url: https://www.linkedin.com/in/danqing-anna-wang
-  icon: fab fa-linkedin
-- title: google scholar
-  url: https://scholar.google.com/citations?user=XbzEcqMAAAAJ&hl=en
-  icon: fab fa-google
