@@ -8,11 +8,11 @@ type: team
 
 PI
 Danqing Wang
-![Photo](/assets/images/Photo0.jpg){:class="img-responsive"}
+![Photo](/assets/images/Photo0_new2.jpg){:class="img-responsive"}
 
 Research Assistant
 Hong Su
-![Photo](/assets/images/Photo1.jpg){:class="img-responsive"}
+![Photo](/assets/images/Photo1_new.jpg){:class="img-responsive"}
 
 Graduate students
 Yiran Chen
