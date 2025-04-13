@@ -1,9 +1,9 @@
 ---
 layout: archive-tags
-permalink: /outreach/
-title: Outreach
-image:  ./assets/images/Outreach.jpg
-type: outreach
+permalink: /team/
+title: Team
+image:  ./assets/images/team1.jpg
+type: team
 ---
 
 Co-chair, Gordon Research Seminar, June 2023   
