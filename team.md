@@ -16,8 +16,6 @@ Hong Su
 <br /> <br />
 Master: Beihang University
 <br /> <br />
-BS: Changchun University of Science and Technology
-<br /> <br />
 ![Photo](/assets/images/Photo1_new.jpg){:class="img-responsive"}
 
 Graduate students
