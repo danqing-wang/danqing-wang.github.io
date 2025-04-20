@@ -6,10 +6,6 @@ image:  ./assets/images/Photo0.jpg
 type: team
 ---
 
-PI (Danqing Wang)
-<br /> <br />
-![Photo](/assets/images/Photo0_new2.jpg){:class="img-responsive"}
-
 Research Assistant
 <br /> <br />
 Hong Su
