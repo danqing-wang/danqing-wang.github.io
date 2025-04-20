@@ -21,7 +21,6 @@ Yiran Chen
 BS: Huazhong University of Science and Technology
 <br /> <br />
 ![Photo](/assets/images/Photo2_new.jpg){:class="img-responsive"}
-<br /> <br />
 Xirui Liao
 <br /> <br />
 BS: South China University of Technology
