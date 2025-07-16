@@ -12,6 +12,7 @@ Shusen Lin
 PhD: Kwangwoon University, South Korea
 <br /> <br />
 ![Photo](/assets/images/Photo5_new_2.jpg){:class="img-responsive"}
+<br /> <br />
 
 Research Assistant
 <br /> <br />
@@ -20,6 +21,7 @@ Hong Su
 Master: Beihang University
 <br /> <br />
 ![Photo](/assets/images/Photo1_new_2.jpg){:class="img-responsive"}
+<br /> <br />
 
 Graduate students
 <br /> <br />
@@ -29,16 +31,20 @@ Master: Fudan University
 <br /> <br />
 ![Photo](/assets/images/Photo6_new.jpg){:class="img-responsive"}
 <br /> <br />
+
 Yiran Chen
 <br /> <br />
 BS: Huazhong University of Science and Technology
 <br /> <br />
 ![Photo](/assets/images/Photo2_new_2.jpg){:class="img-responsive"}
+<br /> <br />
+
 Xirui Liao
 <br /> <br />
 BS: South China University of Technology
 <br /> <br />
 ![Photo](/assets/images/Photo3_new_2.jpg){:class="img-responsive"}
+<br /> <br />
 
 Undergraduate
 <br /> <br />
