@@ -46,6 +46,6 @@ Ruilin Liu
 <br /> <br />
 BS: Fudan University
 <br /> <br />
-![Photo](/assets/images/Photo4_new.jpg){:class="img-responsive"}
+![Photo](/assets/images/Photo4_new_2.jpg){:class="img-responsive"}
 
 
