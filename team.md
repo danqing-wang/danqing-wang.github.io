@@ -11,7 +11,7 @@ Shusen Lin
 <br /> <br />
 PhD: Kwangwoon University, South Korea
 <br /> <br />
-![Photo](/assets/images/Photo1_new.jpg){:class="img-responsive"}
+![Photo](/assets/images/Photo5_new.jpg){:class="img-responsive"}
 
 Research Assistant
 <br /> <br />
@@ -27,7 +27,7 @@ Xiaorui Ma
 <br /> <br />
 Master: Fudan University
 <br /> <br />
-![Photo](/assets/images/Photo2_new.jpg){:class="img-responsive"}
+![Photo](/assets/images/Photo6_new.jpg){:class="img-responsive"}
 <br /> <br />
 Yiran Chen
 <br /> <br />
