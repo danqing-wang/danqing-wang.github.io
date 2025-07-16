@@ -11,7 +11,7 @@ Shusen Lin
 <br /> <br />
 PhD: Kwangwoon University, South Korea
 <br /> <br />
-![Photo](/assets/images/Photo5_new.jpg){:class="img-responsive"}
+![Photo](/assets/images/Photo5_new_2.jpg){:class="img-responsive"}
 
 Research Assistant
 <br /> <br />
