@@ -5,6 +5,13 @@ title: Team
 image:  ./assets/images/Photo0.jpg
 type: team
 ---
+Postdoc
+<br /> <br />
+Shusen Lin
+<br /> <br />
+PhD: Kwangwoon University, South Korea
+<br /> <br />
+![Photo](/assets/images/Photo1_new.jpg){:class="img-responsive"}
 
 Research Assistant
 <br /> <br />
@@ -15,6 +22,12 @@ Master: Beihang University
 ![Photo](/assets/images/Photo1_new.jpg){:class="img-responsive"}
 
 Graduate students
+<br /> <br />
+Xiaorui Ma
+<br /> <br />
+Master: Fudan University
+<br /> <br />
+![Photo](/assets/images/Photo2_new.jpg){:class="img-responsive"}
 <br /> <br />
 Yiran Chen
 <br /> <br />
