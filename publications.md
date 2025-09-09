@@ -10,7 +10,7 @@ Patent
 
 First and co-first author  
 
-1.   Wang, D.#; Lu, Z.; Warkander, S.; Gupta, N.; Wang, Q.; Ci, P.; Guo, R.; Li, J.; Javey, A.; Yao, J.; Wang, F.; Wu, J.# “Long-range Optical Coupling with Epsilon-near-zero Materials,” accepted, Nature Communications (#corresponding author)
+1.   Wang, D.#; Lu, Z.; Warkander, S.; Gupta, N.; Wang, Q.; Ci, P.; Guo, R.; Li, J.; Javey, A.; Yao, J.; Wang, F.; Wu, J.# “Long-range Optical Coupling with Epsilon-near-zero Materials,” submitted (#corresponding author)
 2.   Wang, D.#; Yang, A. “Miniaturized optics from structured nanoscale cavities,” Progress in Quantum Electronics 94, 100507 (2024) (#corresponding author) [DOI: 10.1016/j.pquantelec.2024.100507](https://www.sciencedirect.com/science/article/pii/S0079672724000107)
 3.   Wang, D.; Hu, J.; Schatz, G.C.; Odom, T.W. “Superlattice Surface Lattice Resonances in Plasmonic Nanoparticle Arrays with Patterned Dielectrics,” J. Phys. Chem. Lett. 14, 38, 8525–8530 (2023) [DOI: 10.1021/acs.jpclett.3c02158](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02158)
 4.   Wang, D.#; Dong, K.; Li, J.; Grigoropoulos, C.; Yao, J.; Hong, J.; Wu, J.# “Low-loss, geometry-invariant optical waveguides with near-zero-index materials,” Nanophotonics 11, 21, 4747–4753 (2022) (#corresponding author) [DOI: 10.1515/nanoph-2022-0445](https://www.degruyter.com/document/doi/10.1515/nanoph-2022-0445/html)
