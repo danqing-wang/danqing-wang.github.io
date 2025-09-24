@@ -5,6 +5,8 @@ title: Awards
 type: awards
 ---
 
+2025    MIT Technology Review Innovators Under 35 Asia Pacific
+
 2023    Rising Stars of Light (3 awardees globally，before faculty track)
 
 2022    Rising Stars in EECS, USA
