@@ -4,50 +4,56 @@ permalink: /conferences/
 title: Conferences
 type: conferences
 ---
-1.   International Workshop on Quantum Materials for 2D Photonics & Optoelectronics, Singapore 2023  
+
+17. The 5th China Metamaterials Conference                                                                         Jinan 2026
+Invited talk: “Long-range Optical Interactions in Nanosystems”
+
+16. Photonics and Electromagnetics Research Symposium                                                 Chiba 2025
+Invited talk: “Long-range Optical Interactions in Nanosystems”
+
+15. World Young Scientist Summit, invited speaker                                                    Wenzhou 2025
+    
+14. World Laureates Forum, invited panelist                                                                 Shanghai 2025
+    
+13. LTO2025                                                                      Shanghai 2025
+Invited talk: “Miniaturized optics from structured nanoscale cavities”
+
+12. The 4th China Metamaterials Conference                                                                 Shenzhen 2025
+Invited talk: “Integrated Photonics from Structured Nanomaterials”
+
+11. Lithium Niobate Photonics Conference                                                                       Shanghai 2025
+Invited talk: “Room-temperature Quantum Photonics with Structured Nanocavities”
+
+10. AMO Annual Meeting Shanghai                                                                    Shanghai 2024
+Invited talk: “Miniaturized optics from structured nanoscale cavities”
+
+9. International Workshop on Quantum Materials for 2D Photonics & Optoelectronics                  Singapore 2023
 Invited talk: “Emerging Optics from Structured Nanoscale Cavities”
 
-2.   MRS Fall Meeting Boston, MA 2022  
-Talk: “Low-loss, geometry-invariant optical waveguides with zero-index materials”
+8. San Francisco State University Physics Colloquium                                            San Francisco 2022
+Invited talk: “Emerging Optics from Structured Nanomaterials”
 
-3.   San Francisco State University Physics Colloquium San Francisco, CA 2022  
-Invited talk: “Emerging Optics from Structured Nanomaterials”  
+7. UC Berkeley Quantum Materials Seminar                                                                     Berkeley 2019
+Invited talk: “Extraordinary Optics from Structured Nanoparticles”
 
-4.   UC Berkeley Quantum Materials Seminar                                                            Berkeley, CA 2019  
-Invited talk: “Extraordinary Optics from Structured Nanoparticles”  
+6. UC Berkeley Nano Seminar Series                                                                                   Berkeley 2019
+Invited talk: “Extraordinary Optics from Structured Nanoparticles”
 
-5.   UC Berkeley Nano Seminar Series                                                                          Berkeley, CA 2019  
-Invited talk: “Extraordinary Optics from Structured Nanoparticles”  
+5. ACS Fall Meeting                                                                              San Diego 2019
+Invited talk: “Extraordinary Optics from Structured Nanoparticles”
 
-6.   ACS Fall Meeting                                                                                                      San Diego, CA 2019  
-Invited talk: “Extraordinary Optics from Structured Nanoparticles”  
+4.   Vannevar Bush Faculty Fellows Annual Meeting                                                Washington 2019
+Poster: “Functional and Hierarchical Nanoscale Metamaterials”
 
-7.   Vannevar Bush Faculty Fellows Annual Meeting                                       Washington, D.C. 2019  
-Poster: “Functional and Hierarchical Nanoscale Metamaterials”  
+3.   MRS Fall Meeting                                                                                 Boston 2018
+Talk: “Stretchable Nanolasing from Hybrid Quadrupole Plasmons”
 
-8.   MRS Fall Meeting                                                                                                         Boston, MA 2018  
-Talk: “Stretchable Nanolasing from Hybrid Quadrupole Plasmons”  
+2.   Nanjing University Tiandi Symposium                                                               Nanjing 2017
+Invited talk: “Structural Engineering in Plasmon Nanolasers”
 
-9.   Gordon Conference                                                                                    Waterville Valley, NH 2018  
-Poster: “Structural Engineering in Plasmon Nanolasers”  
+1.   OSA Incubator on Science & Applications of Nanolasers                                   Washington 2016
+Invited talk: “Lasing from Plasmonic Nanocavity Arrays”
 
-10.   Nanjing University Tiandi Symposium                                                             Nanjing, China 2017  
-Invited talk: “Structural Engineering in Plasmon Nanolasers”  
-
-11. MRS Fall Meeting                                                                                                         Boston, MA 2017  
-Talk: “Band-edge Engineering for Controlled Multi-modal Nanolasing in Plasmonic Superlattices”  
-
-12. Northwestern SPIE-MRSEC Student Seminar Series                                         Evanston, IL 2017  
-Invited talk: “Structural Engineering in Plasmon Nanolasers”  
-
-13. OSA Incubator on Science & Applications of Nanolasers                           Washington, DC 2016  
-Invited talk: “Lasing from Plasmonic Nanocavity Arrays”  
-
-14. Gordon Conference                                                                                                      Newry, ME 2016  
-Poster: “Band-edge Engineering in Hierarchical Plasmonic Nanolasers”  
-
-15. APS March Meeting                                                                                             San Antonio, TX 2015  
-Poster: “Superlattice Plasmons in Finite Nanoparticle Arrays”  
 
 
 
