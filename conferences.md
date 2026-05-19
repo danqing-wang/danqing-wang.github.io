@@ -11,7 +11,7 @@ Invited talk: “Long-range Optical Interactions in Nanosystems”
 14. Photonics and Electromagnetics Research Symposium                                                 Chiba 2025   
 Invited talk: “Long-range Optical Interactions in Nanosystems” 
     
-13. LTO2025                                                                      Shanghai 2025     
+13. LTO 2025                                                                      Shanghai 2025     
 Invited talk: “Miniaturized optics from structured nanoscale cavities”
 
 12. The 4th China Metamaterials Conference                                                                 Shenzhen 2025    
