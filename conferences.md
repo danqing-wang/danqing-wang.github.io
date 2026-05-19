@@ -5,11 +5,11 @@ title: Conferences
 type: conferences
 ---
 
-17. The 5th China Metamaterials Conference                                                                         Jinan 2026
-Invited talk: “Long-range Optical Interactions in Nanosystems”
+17. The 5th China Metamaterials Conference                                     Jinan 2026
+ Invited talk: “Long-range Optical Interactions in Nanosystems”
 
 16. Photonics and Electromagnetics Research Symposium                                                 Chiba 2025
-Invited talk: “Long-range Optical Interactions in Nanosystems”
+ Invited talk: “Long-range Optical Interactions in Nanosystems”
 
 15. World Young Scientist Summit, invited speaker                                                    Wenzhou 2025
     
