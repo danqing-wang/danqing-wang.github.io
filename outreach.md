@@ -6,19 +6,23 @@ image:  ./assets/images/Outreach.jpg
 type: outreach
 ---
 
-Co-chair, Gordon Research Seminar, June 2023   
+Invited speaker, World Young Scientist Summit, Wenzhou 2025
+
+invited panelist, World Laureates Forum, Shanghai 2025
+
+Co-chair, Gordon Research Seminar, USA 2023   
 Subsection: [Lasers in Micro, Nano and Bio Systems](https://www.grc.org/lasers-in-micro-nano-and-bio-systems-grs-conference/2023/), West Dover, VT
 
 Miller Institute Ambassador 2022   
 University of California, Berkeley
 
-Invited panelist, WISE National Conference, Canada Jan. 2022   
+Invited panelist, WISE National Conference, Canada 2022   
 University of Toronto
 
 “Meet with a Miller Fellow” outreach program at El Cerrito High School 2020-21  
 University of California, Berkeley 
 
-Morning mentor, Tutoring program at Nichols Middle School Winter 2018  
+Morning mentor, Tutoring program at Nichols Middle School 2018  
 Northwestern University
 
 Professional Development Co-chair, McCormick Graduate Leadership Council 2014-16  
