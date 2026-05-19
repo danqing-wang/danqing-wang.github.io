@@ -8,7 +8,7 @@ type: outreach
 
 Invited speaker, World Young Scientist Summit, Wenzhou 2025
 
-invited panelist, World Laureates Forum, Shanghai 2025
+Invited panelist, World Laureates Forum, Shanghai 2025
 
 Co-chair, Gordon Research Seminar, USA 2023   
 Subsection: [Lasers in Micro, Nano and Bio Systems](https://www.grc.org/lasers-in-micro-nano-and-bio-systems-grs-conference/2023/), West Dover, VT
