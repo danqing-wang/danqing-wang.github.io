@@ -10,6 +10,9 @@ Invited speaker, World Young Scientist Summit, Wenzhou 2025
 
 Invited panelist, World Laureates Forum, Shanghai 2025
 
+Invited panelist, Rose in Science & Elite   2025
+Light conference on Laser & Quantum, Shanghai
+
 Co-chair, Gordon Research Seminar, USA 2023   
 Subsection: [Lasers in Micro, Nano and Bio Systems](https://www.grc.org/lasers-in-micro-nano-and-bio-systems-grs-conference/2023/), West Dover, VT
 
