@@ -55,7 +55,6 @@ Yujun He BS: Fudan University
 <br /> <br />
 
 Alumni
-
 <br /> <br />
 Ruilin Liu BS: Fudan University
 <br /> <br />
