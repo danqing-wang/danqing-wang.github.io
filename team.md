@@ -15,6 +15,15 @@ PhD: Kwangwoon University, South Korea
 ![Photo](/assets/images/Photo5_new_2.jpg){:class="img-responsive"}
 <br /> <br />
 
+Research Assistant
+<br /> <br />
+Hong Su
+<br /> <br />
+Master: Beihang University
+<br /> <br />
+![Photo](/assets/images/Photo1_new_2.jpg){:class="img-responsive"}
+<br /> <br />
+
 Graduate students
 <br /> <br />
 Xiaorui Ma
@@ -46,15 +55,6 @@ Yujun He BS: Fudan University
 <br /> <br />
 
 Alumni
-
-Research Assistant
-<br /> <br />
-Hong Su
-<br /> <br />
-Master: Beihang University
-<br /> <br />
-![Photo](/assets/images/Photo1_new_2.jpg){:class="img-responsive"}
-<br /> <br />
 
 <br /> <br />
 Ruilin Liu BS: Fudan University
