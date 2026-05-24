@@ -47,6 +47,13 @@ BS: South China University of Technology
 ![Photo](/assets/images/Photo3_new_2.jpg){:class="img-responsive"}
 <br /> <br />
 
+Pujun Su (co-advised with Keren Zhu)
+<br /> <br />
+BS: Ocean University of China
+<br /> <br />
+![Photo](/assets/images/Photo6.jpg){:class="img-responsive"}
+<br /> <br />
+
 Undergraduate
 <br /> <br />
 Tianze Ji BS: Fudan University
