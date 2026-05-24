@@ -51,7 +51,7 @@ Pujun Su (co-advised with Keren Zhu)
 <br /> <br />
 BS: Ocean University of China
 <br /> <br />
-![Photo](/assets/images/Photo7.jpg){:class="img-responsive"}
+![Photo](/assets/images/Photo7_new.jpg){:class="img-responsive"}
 <br /> <br />
 
 Undergraduate
