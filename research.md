@@ -16,6 +16,7 @@ These works were funded by the Miller research fellowship, and were published in
 
 ![Research overview](/assets/images/Figure 1.png){:class="img-responsive"}
 
+<br /> <br />
 Surface lattice resonance nanocavities  
 <br /> <br />
     Highlight activities include:   
