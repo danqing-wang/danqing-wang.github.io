@@ -11,7 +11,7 @@ Epsilon-near-zero nanophotonics <br /> <br />
 -   Achieved long-range optical interactions between epsilon-near-zero thin film materials and their analogy to superconducting proximity effect in electronic systems  
 -   Demonstrated that near-zero-index materials can serve as a cladding layer for low-loss and geometry-invariant optical waveguides for miniaturized photonics
   
-These works were funded by the Miller research fellowship, and were published in Nature Communications, Nanophotonics, etc.
+These works were funded by the Miller research fellowship, and were published in Nature Communications, Nanophotonics, etc (including one patent).
 
 ![Research overview](/assets/images/Figure 1.png){:class="img-responsive"}
 
