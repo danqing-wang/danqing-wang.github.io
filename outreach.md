@@ -10,11 +10,10 @@ Invited speaker, World Young Scientist Summit, Wenzhou 2025
 
 Invited panelist, World Laureates Forum, Shanghai 2025
 
-Invited panelist, Rose in Science & Elite   2025
-Light conference on Laser & Quantum, Shanghai
+Invited panelist, Rose in Science & Elite, Light conference on Laser & Quantum, Shanghai 2025
 
 Co-chair, Gordon Research Seminar, USA 2023   
-Subsection: [Lasers in Micro, Nano and Bio Systems](https://www.grc.org/lasers-in-micro-nano-and-bio-systems-grs-conference/2023/), West Dover, VT
+Subsection: [Lasers in Micro, Nano and Bio Systems](https://www.grc.org/lasers-in-micro-nano-and-bio-systems-grs-conference/2023/), West Dover
 
 Miller Institute Ambassador 2022   
 University of California, Berkeley
