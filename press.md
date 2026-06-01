@@ -4,7 +4,7 @@ layout: archive-tags
 title: Press
 ---
 
-1.    ["MIT Technology Review Innovators Under 35 Asia Pacificc"](https://tr35.mittrasia.com/awards), MIT Technology Review (Sept. 2025)
+1.    ["MIT Technology Review Innovators Under 35 Asia Pacific"](https://tr35.mittrasia.com/awards), MIT Technology Review (Sept. 2025)
 2.    ["A Rising Star of Light at the Max Planck"](https://mpl.mpg.de/news/article/a-rising-star-of-light-at-the-max-planck-institute-for-the-science-of-light), News from the Institute, Max Planck Institute for the Science of Light (Dec. 2023)
 3.    ["Structuring Nanomaterials for Optics"](https://miller.berkeley.edu/images/newsletters/Winter2021_digital.pdf), Miller Fellow Focus, Miller Institute Newsletter (Winter 2021)  
 4.    ["Forbes 30 Under 30 2021 List"](https://www.forbes.com/30-under-30/2021/science/?profile=danqing-wang), Forbes (December 2020)  
