@@ -72,7 +72,7 @@ Jiucheng Zhou
 <br /> <br />
 BS: University of Shanghai for Science and Technology
 <br /> <br />
-![Photo](/assets/images/Jiucheng-crop-2.jpg){:class="img-responsive"}
+![Photo](/assets/images/Jiucheng-crop-3.jpg){:class="img-responsive"}
 <br /> <br />
 
 
