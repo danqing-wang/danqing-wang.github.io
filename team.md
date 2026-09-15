@@ -15,14 +15,6 @@ PhD: Kwangwoon University, South Korea
 ![Photo](/assets/images/Photo5_new_2.jpg){:class="img-responsive"}
 <br /> <br />
 
-Research Assistant
-<br /> <br />
-Hong Su
-<br /> <br />
-Master: Beihang University
-<br /> <br />
-![Photo](/assets/images/Photo1_new_2.jpg){:class="img-responsive"}
-<br /> <br />
 
 Graduate students
 <br /> <br />
@@ -54,16 +46,15 @@ BS: Ocean University of China
 ![Photo](/assets/images/Photo7_new2.jpg){:class="img-responsive"}
 <br /> <br />
 
-Undergraduate
-<br /> <br />
-Tianze Ji BS: Fudan University
-<br /> <br />
-Yujun He BS: Fudan University
-<br /> <br />
 
 Alumni
 <br /> <br />
+Research Assistant
+Hong Su Master: Beihang University, 2026
+<br /> <br />
+Undergraduate
+Tianze Ji BS: Fudan University, 2026
+Yujun He BS: Fudan University, 2026
 Ruilin Liu BS: Fudan University, 2025
-
-
+<br /> <br />
 
