@@ -65,14 +65,14 @@ Ruitian Liu (co-advised)
 <br /> <br />
 Master: Huazhong University of Science and Technology
 <br /> <br />
-![Photo](/assets/images/Photo2_new_2.jpg){:class="img-responsive"}
+![Photo](/assets/images/Ruitian-crop.jpg){:class="img-responsive"}
 <br /> <br />
 
 Jiucheng Zhou
 <br /> <br />
 BS: University of Shanghai for Science and Technology
 <br /> <br />
-![Photo](/assets/images/Yuyang-crop.jpg){:class="img-responsive"}
+![Photo](/assets/images/Jiucheng-crop.jpg){:class="img-responsive"}
 <br /> <br />
 
 
