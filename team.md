@@ -23,7 +23,7 @@ Xiaorui Ma
 <br /> <br />
 Master: Fudan University
 <br /> <br />
-![Photo](/assets/images/Photo6_new.jpg){:class="img-responsive"}
+![Photo](/assets/images/Xiaorui-crop.jpg){:class="img-responsive"}
 <br /> <br />
 
 Yiran Chen
@@ -37,10 +37,10 @@ Xirui Liao
 <br /> <br />
 BS: South China University of Technology
 <br /> <br />
-![Photo](/assets/images/Photo3_new_2.jpg){:class="img-responsive"}
+![Photo](/assets/images/Xirui-crop.jpg){:class="img-responsive"}
 <br /> <br />
 
-Pujun Su (co-advised with Keren Zhu)
+Pujun Su (co-advised)
 <br /> <br />
 BS: Ocean University of China
 <br /> <br />
@@ -61,7 +61,7 @@ BS: Xi'an Jiaotong University
 ![Photo](/assets/images/Yuetian-crop.jpg){:class="img-responsive"}
 <br /> <br />
 
-Ruitian Liu
+Ruitian Liu (co-advised)
 <br /> <br />
 Master: Huazhong University of Science and Technology
 <br /> <br />
@@ -70,7 +70,7 @@ Master: Huazhong University of Science and Technology
 
 Jiucheng Zhou
 <br /> <br />
-BS: Huazhong University of Science and Technology
+BS: University of Shanghai for Science and Technology
 <br /> <br />
 ![Photo](/assets/images/Yuyang-crop.jpg){:class="img-responsive"}
 <br /> <br />
