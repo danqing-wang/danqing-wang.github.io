@@ -49,21 +49,21 @@ BS: Ocean University of China
 
 Yuyang Zhan
 <br /> <br />
-BS: Huazhong University of Science and Technology
+BS: Ocean University of China
 <br /> <br />
 ![Photo](/assets/images/Yuyang-crop.jpg){:class="img-responsive"}
 <br /> <br />
 
 Yuetian Wang
 <br /> <br />
-BS: Ocean University of China
+BS: Xi'an Jiaotong University
 <br /> <br />
 ![Photo](/assets/images/Yuetian-crop.jpg){:class="img-responsive"}
 <br /> <br />
 
-Yiran Chen
+Ruitian Liu
 <br /> <br />
-BS: Huazhong University of Science and Technology
+Master: Huazhong University of Science and Technology
 <br /> <br />
 ![Photo](/assets/images/Photo2_new_2.jpg){:class="img-responsive"}
 <br /> <br />
