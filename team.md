@@ -18,6 +18,7 @@ PhD: Kwangwoon University, South Korea
 
 Graduate students
 <br /> <br />
+
 Xiaorui Ma
 <br /> <br />
 Master: Fudan University
@@ -60,26 +61,20 @@ BS: Ocean University of China
 ![Photo](/assets/images/Yuetian-crop.jpg){:class="img-responsive"}
 <br /> <br />
 
-Yuyang Zhan
+Yiran Chen
+<br /> <br />
+BS: Huazhong University of Science and Technology
+<br /> <br />
+![Photo](/assets/images/Photo2_new_2.jpg){:class="img-responsive"}
+<br /> <br />
+
+Jiucheng Zhou
 <br /> <br />
 BS: Huazhong University of Science and Technology
 <br /> <br />
 ![Photo](/assets/images/Yuyang-crop.jpg){:class="img-responsive"}
 <br /> <br />
 
-Yiran Chen
-<br /> <br />
-BS: Huazhong University of Science and Technology
-<br /> <br />
-![Photo](/assets/images/Photo2_new_2.jpg){:class="img-responsive"}
-<br /> <br />
-
-Yiran Chen
-<br /> <br />
-BS: Huazhong University of Science and Technology
-<br /> <br />
-![Photo](/assets/images/Photo2_new_2.jpg){:class="img-responsive"}
-<br /> <br />
 
 Alumni
 <br /> <br />
