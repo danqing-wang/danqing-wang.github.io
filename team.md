@@ -46,6 +46,40 @@ BS: Ocean University of China
 ![Photo](/assets/images/Photo7_new2.jpg){:class="img-responsive"}
 <br /> <br />
 
+Yuyang Zhan
+<br /> <br />
+BS: Huazhong University of Science and Technology
+<br /> <br />
+![Photo](/assets/images/Yuyang-crop.jpg){:class="img-responsive"}
+<br /> <br />
+
+Yuetian Wang
+<br /> <br />
+BS: Ocean University of China
+<br /> <br />
+![Photo](/assets/images/Yuetian-crop.jpg){:class="img-responsive"}
+<br /> <br />
+
+Yuyang Zhan
+<br /> <br />
+BS: Huazhong University of Science and Technology
+<br /> <br />
+![Photo](/assets/images/Yuyang-crop.jpg){:class="img-responsive"}
+<br /> <br />
+
+Yiran Chen
+<br /> <br />
+BS: Huazhong University of Science and Technology
+<br /> <br />
+![Photo](/assets/images/Photo2_new_2.jpg){:class="img-responsive"}
+<br /> <br />
+
+Yiran Chen
+<br /> <br />
+BS: Huazhong University of Science and Technology
+<br /> <br />
+![Photo](/assets/images/Photo2_new_2.jpg){:class="img-responsive"}
+<br /> <br />
 
 Alumni
 <br /> <br />
