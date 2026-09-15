@@ -75,7 +75,6 @@ BS: University of Shanghai for Science and Technology
 ![Photo](/assets/images/Jiucheng-crop-3.jpg){:class="img-responsive"}
 <br /> <br />
 
-
 Alumni
 <br /> <br />
 Research Assistant
