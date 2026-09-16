@@ -63,7 +63,7 @@ BS: Xi'an Jiaotong University
 
 Ruitian Liu (co-advised)
 <br /> <br />
-Master: Huazhong University of Science and Technology
+Master: Shanghai Institute of Optics and Fine Mechanics
 <br /> <br />
 ![Photo](/assets/images/Ruitian-crop-3.jpg){:class="img-responsive"}
 <br /> <br />
