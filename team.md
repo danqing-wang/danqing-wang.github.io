@@ -30,7 +30,7 @@ Yiran Chen
 <br /> <br />
 BS: Huazhong University of Science and Technology
 <br /> <br />
-![Photo](/assets/images/Photo2_new_2.jpg){:class="img-responsive"}
+![Photo](/assets/images/Yiran-crop.png){:class="img-responsive"}
 <br /> <br />
 
 Xirui Liao
