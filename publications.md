@@ -10,7 +10,7 @@ Patent
 
 Corresponding and First and Author  
 
-1.   Lin, S.†; Ma, X.†; Liao, X.; Chen, Y.; Su, H.; Wang, D.* “Quantum Nanophotonics Enabled by Subwavelength Optical Nanocavities”, submitted
+1.   Lin, S.†; Ma, X.†; Liao, X.; Chen, Y.; Su, H.; Wang, D.* “Quantum Nanophotonics Enabled by Subwavelength Optical Nanocavities”, invited review, submitted
 2.   Zheng, H.; Huang, C.; Chen, Y.; Ji, Q.; Zhou, P.; Rong, C.; Tang, J.; Xuan, F.; Zhang, B.#; Ding, M.#; Wang, D.#; Deng, S.# "MXene Nanoparticle Lattices Support Chemically Tunable Nanolasing", Laser & Photonics Reviews (2026) (#corresponding author) [DOI: 10.1002/lpor.71188](https://onlinelibrary.wiley.com/doi/10.1002/lpor.71188)
 3.   Wang, D.#; Lu, Z.; Warkander, S.; Gupta, N.; Wang, Q.; Ci, P.; Guo, R.; Li, J.; Javey, A.; Yao, J.; Wang, F.; Wu, J.# “Long-range Optical Coupling with Epsilon-near-zero Materials,” Nature Communications 16, 9172 (2025) (#corresponding author) [DOI: 10.1038/s41467-025-64504-w](https://www.nature.com/articles/s41467-025-64504-w)
 4.   Wang, D.#; Yang, A. “Miniaturized optics from structured nanoscale cavities,” Progress in Quantum Electronics 94, 100507 (2024) (#corresponding author) (invited review) [DOI: 10.1016/j.pquantelec.2024.100507](https://www.sciencedirect.com/science/article/pii/S0079672724000107)
