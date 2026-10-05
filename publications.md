@@ -8,7 +8,7 @@ Patent
 
 1. Hong, J.; Wu, J.; Wang, D. "Method and Apparatus of Hybrid Integrated Photonics Devices" (US Patent no. 20240184039A1)
 
-Corresponding and First and Author  
+Corresponding and First Author  
 
 1.   Lin, S.†; Ma, X.†; Liao, X.; Chen, Y.; Su, H.; Wang, D.* “Quantum Nanophotonics Enabled by Subwavelength Optical Nanocavities”, invited review, submitted
 2.   Bi, X.; Wang, D.#; Ao, X.# "All-Optically Tunable Self-Referenced Multibeam Visible Lasing Based on Silicon–Organic Hybrid Metasurfaces", ACS Photonics 13, 18, 5434–5440 (2026) (#corresponding author) [DOI:10.1021/acsphotonics.6c01399](https://pubs.acs.org/apchd5/article-abstract/13/18/5434/5328275/)
